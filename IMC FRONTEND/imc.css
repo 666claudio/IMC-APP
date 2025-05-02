@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: beige;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+#historial {
+    margin-top: 20px;
+}
